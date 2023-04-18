@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm currently interested in Competitve programming and Web Development 
+✨ I'm currently interested in Competitve programming, Web Development and Engineering 
 
 <!--
 **Harishikea/Harishikea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
